@@ -1,6 +1,6 @@
 # rankingbot-alpha
 
-Install modules discord.js & mongoose
+Install modules discord.js & mongoose    
 commands in terminal:
 `npm init -y`
 `npm i discord.js`

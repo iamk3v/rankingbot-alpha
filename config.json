@@ -1,0 +1,6 @@
+{
+    "token":"BOT TOKEN",
+    "prefix":".",
+    "mongo":"Mongo URL",
+    "footer":"Your embed footer"
+}
